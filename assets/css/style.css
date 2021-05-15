@@ -36,7 +36,7 @@ body {
   box-sizing: border-box; }
 
 img {
-  max-width: 100%; }
+  max-width: 50%; }
 
 a:focus,
 input:focus,
@@ -835,7 +835,7 @@ p {
   margin-top: 30px; }
 
 .header_hero_image img {
-  width: 100%; }
+  width: 50%; }
 
 /*===========================
         03.ABOUT css 
@@ -843,7 +843,7 @@ p {
 .about_image {
   position: relative; }
   .about_image img {
-    width: 100%; }
+    width: 50%; }
   .about_image .about_shape {
     width: 404px;
     height: 525px;
