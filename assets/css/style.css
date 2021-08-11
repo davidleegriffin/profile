@@ -1045,7 +1045,7 @@ p {
 
 .project_active .slick-arrow {
   position: absolute;
-  bottom: -80px;
+  top: 0px;
   right: 50%;
   z-index: 9;
   margin: 0 15px;
